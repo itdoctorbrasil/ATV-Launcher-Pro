@@ -1,0 +1,6 @@
+{
+  "name": "ATV Launcher",
+  "description": "Android TV Launcher com suporte D-PAD, onboarding interativo, temas customizáveis e integração com Painel SaaS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

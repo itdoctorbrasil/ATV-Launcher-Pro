@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ATV Launcher</string>
+    <string name="accessibility_service_name">ATV Launcher Service</string>
+    <string name="accessibility_service_description">Mantém o ATV Launcher ativo como tela inicial e gerencia a navegação na Android TV.</string>
+</resources>
